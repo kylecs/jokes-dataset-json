@@ -1,4 +1,4 @@
-#Jokes Dataset
+# Jokes Dataset
 
 About 1000 jokes scraped from reddit.com/r/jokes/top. Data is stored in all.json
 as a large array of json objects.
